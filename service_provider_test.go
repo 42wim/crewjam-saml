@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/crewjam/saml/testsaml"
+	"github.com/42wim/crewjam-saml/testsaml"
 	"github.com/kr/pretty"
 	dsig "github.com/russellhaering/goxmldsig"
 

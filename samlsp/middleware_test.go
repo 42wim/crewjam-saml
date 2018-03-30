@@ -18,9 +18,9 @@ import (
 	dsig "github.com/russellhaering/goxmldsig"
 	. "gopkg.in/check.v1"
 
-	"github.com/crewjam/saml"
-	"github.com/crewjam/saml/logger"
-	"github.com/crewjam/saml/testsaml"
+	"github.com/42wim/crewjam-saml"
+	"github.com/42wim/crewjam-saml/logger"
+	"github.com/42wim/crewjam-saml/testsaml"
 )
 
 // Hook up gocheck into the "go test" runner.
